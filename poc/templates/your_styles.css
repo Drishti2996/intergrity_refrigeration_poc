@@ -1,0 +1,5 @@
+.container-center {
+  text-align: center;  /* Center text */
+  margin: 0 auto;     /* Center element horizontally */
+  padding: 20px;        /* Optional padding for spacing */
+}
